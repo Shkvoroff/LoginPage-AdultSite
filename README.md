@@ -28,7 +28,6 @@ List of features ready and TODOs for future development
 To-Do list:
 * Finish the Backend
 * Finish page responsiveness
-* 
 
 ## Status
 Project is: In Progress
